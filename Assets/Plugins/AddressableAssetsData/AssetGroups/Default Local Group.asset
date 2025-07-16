@@ -1,0 +1,247 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_GUID: 7b246b4438677ee4ca420b293cce696c
+  m_SerializeEntries:
+  - m_GUID: 0616a6784db52a641b8148b30a3cb495
+    m_Address: "Assets/Sprite/\u043F\u0443\u0442\u0438\u043D \u043F\u0440\u043E\u0442\u0438\u0432
+      \u0437\u0435\u043B\u0435\u043D\u0441\u043A\u043E\u0433\u043E/\u0417\u0435\u043B\u0435\u043D\u0441\u043A\u0438\u0439-\u0423\u0447\u0435\u043D\u0438\u043A.jpg"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 12e7e41cdb29f1742a5847410dcbc3f2
+    m_Address: "Assets/Sprite/\u043F\u0443\u0442\u0438\u043D \u043F\u0440\u043E\u0442\u0438\u0432
+      \u0437\u0435\u043B\u0435\u043D\u0441\u043A\u043E\u0433\u043E/\u0417\u0435\u043B\u0435\u043D\u0441\u043A\u0438\u0439-\u0422\u0430\u043A\u0442\u0438\u043A.jpg"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1d7faa8afe30b4f4bb65a5e164dfbb07
+    m_Address: "Assets/Sprite/\u043F\u0443\u0442\u0438\u043D \u043F\u0440\u043E\u0442\u0438\u0432
+      \u0437\u0435\u043B\u0435\u043D\u0441\u043A\u043E\u0433\u043E/\u0417\u0435\u043B\u0435\u043D\u0441\u043A\u0438\u0439-\u0410\u0431\u0441\u043E\u043B\u044E\u0442.jpg"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2047abcc693aadd46956b42cc21c4102
+    m_Address: "Assets/Sprite/\u043F\u0443\u0442\u0438\u043D \u043F\u0440\u043E\u0442\u0438\u0432
+      \u0437\u0435\u043B\u0435\u043D\u0441\u043A\u043E\u0433\u043E/\u0417\u0435\u043B\u0435\u043D\u0441\u043A\u0438\u0439-\u0410\u0432\u0430\u043D\u0433\u0430\u0440\u0434.jpg"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 20ee089fbaa893947984f57ff7c47758
+    m_Address: "Assets/Sprite/\u043F\u0443\u0442\u0438\u043D \u043F\u0440\u043E\u0442\u0438\u0432
+      \u0437\u0435\u043B\u0435\u043D\u0441\u043A\u043E\u0433\u043E/\u0417\u0435\u043B\u0435\u043D\u0441\u043A\u0438\u0439-\u041C\u0438\u0444\u0438\u0447\u0435\u0441\u043A\u0438\u0439.jpg"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 21b5089b45daac0469574fda05644044
+    m_Address: "Assets/Sprite/\u043F\u0443\u0442\u0438\u043D \u043F\u0440\u043E\u0442\u0438\u0432
+      \u0437\u0435\u043B\u0435\u043D\u0441\u043A\u043E\u0433\u043E/\u0437\u0430\u0434\u043D\u0438\u0439
+      \u0444\u043E\u043D \u0431\u043E\u044F.jpg"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 225f7d444fd156b439b3f1f9be2242a9
+    m_Address: "Assets/Sprite/Game Sprite,button,/\u044F\u0434\u0435\u0440\u043D\u044B\u0439
+      \u0433\u0440\u0438\u0431.png"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2595f3ed332c84a4d87d6c677240fe61
+    m_Address: "Assets/Sprite/\u043F\u0443\u0442\u0438\u043D \u043F\u0440\u043E\u0442\u0438\u0432
+      \u0437\u0435\u043B\u0435\u043D\u0441\u043A\u043E\u0433\u043E/\u0437\u0435\u043B\u0435\u043D\u0441\u043A\u0438\u0439
+      \u043D\u043E\u0438\u0447\u0435\u043A.jpg"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2bf504d77ccdcd245a0950b1ea53c6c0
+    m_Address: "Assets/Sprite/\u043F\u0443\u0442\u0438\u043D \u043F\u0440\u043E\u0442\u0438\u0432
+      \u0437\u0435\u043B\u0435\u043D\u0441\u043A\u043E\u0433\u043E/\u0417\u0435\u043B\u0435\u043D\u0441\u043A\u0438\u0439-\u041A\u043E\u043C\u0430\u043D\u0434\u0438\u0440.jpg"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2c6b8c8112609ac4d8354aaf4f2f4c92
+    m_Address: "Assets/Sprite/\u043F\u0443\u0442\u0438\u043D \u043F\u0440\u043E\u0442\u0438\u0432
+      \u0437\u0435\u043B\u0435\u043D\u0441\u043A\u043E\u0433\u043E/\u0417\u0435\u043B\u0435\u043D\u0441\u043A\u0438\u0439-\u0421\u0442\u0440\u0430\u0442\u0435\u0433.jpg"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3ebf5e8e41da4c34cabba08026dbfd0a
+    m_Address: "Assets/Sprite/\u043F\u0443\u0442\u0438\u043D \u043F\u0440\u043E\u0442\u0438\u0432
+      \u0437\u0435\u043B\u0435\u043D\u0441\u043A\u043E\u0433\u043E/\u0417\u0435\u043B\u0435\u043D\u0441\u043A\u0438\u0439-\u041C\u0443\u0434\u0440\u0435\u0446.png"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 404261abfad8e80459b23c521db1c449
+    m_Address: "Assets/Sprite/\u043F\u0443\u0442\u0438\u043D \u043F\u0440\u043E\u0442\u0438\u0432
+      \u0437\u0435\u043B\u0435\u043D\u0441\u043A\u043E\u0433\u043E/\u0417\u0435\u043B\u0435\u043D\u0441\u043A\u0438\u0439-\u041C\u044D\u0442\u0440.jpg"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 472c3d5d2729008479945efc0ebda952
+    m_Address: "Assets/Sprite/\u043F\u0443\u0442\u0438\u043D \u043F\u0440\u043E\u0442\u0438\u0432
+      \u0437\u0435\u043B\u0435\u043D\u0441\u043A\u043E\u0433\u043E/\u0417\u0435\u043B\u0435\u043D\u0441\u043A\u0438\u0439-\u0422\u0438\u0442\u0430\u043D.jpg"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4d3312a547598924382f2927469b042b
+    m_Address: "Assets/Sprite/\u043F\u0443\u0442\u0438\u043D \u043F\u0440\u043E\u0442\u0438\u0432
+      \u0437\u0435\u043B\u0435\u043D\u0441\u043A\u043E\u0433\u043E/\u0417\u0435\u043B\u0435\u043D\u0441\u043A\u0438\u0439-\u041B\u0435\u0433\u0435\u043D\u0434\u0430.jpg"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5bbb21b361312cd42bc5b50d3f7886ac
+    m_Address: Assets/Sprite/Game Sprite,button,/Buy.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5eb6215c9ff157844809f4bbc29ff2de
+    m_Address: "Assets/Sprite/\u043F\u0443\u0442\u0438\u043D \u043F\u0440\u043E\u0442\u0438\u0432
+      \u0437\u0435\u043B\u0435\u043D\u0441\u043A\u043E\u0433\u043E/\u0417\u0435\u043B\u0435\u043D\u0441\u043A\u0438\u0439-\u0412\u043E\u0438\u043D.png"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6399e5b8b83cc0d4d9a675ee192d41f1
+    m_Address: "Assets/Sprite/\u043F\u0443\u0442\u0438\u043D \u043F\u0440\u043E\u0442\u0438\u0432
+      \u0437\u0435\u043B\u0435\u043D\u0441\u043A\u043E\u0433\u043E/\u0417\u0435\u043B\u0435\u043D\u0441\u043A\u0438\u0439-\u041C\u0430\u0441\u0442\u0435\u0440.png"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6902c1d86c0f06444be393c9764bf54d
+    m_Address: "Assets/Sprite/\u043F\u0443\u0442\u0438\u043D \u043F\u0440\u043E\u0442\u0438\u0432
+      \u0437\u0435\u043B\u0435\u043D\u0441\u043A\u043E\u0433\u043E/\u0417\u0435\u043B\u0435\u043D\u0441\u043A\u0438\u0439-\u041E\u043F\u044B\u0442\u043D\u044B\u0439.jpg"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 693f22125b0a6c6449f92528f416cf1a
+    m_Address: "Assets/Sprite/\u043F\u0443\u0442\u0438\u043D \u043F\u0440\u043E\u0442\u0438\u0432
+      \u0437\u0435\u043B\u0435\u043D\u0441\u043A\u043E\u0433\u043E/\u0417\u0435\u043B\u0435\u043D\u0441\u043A\u0438\u0439-\u0412\u043B\u0430\u0434\u044B\u043A\u0430.jpg"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 72f67ac0ae31b6940b7c8b8ecc2e2147
+    m_Address: Assets/Sprite/Game Sprite,button,/Fight.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7dcb18e46c596184e945bfc476ffbe37
+    m_Address: "Assets/Sprite/\u043F\u0443\u0442\u0438\u043D \u043F\u0440\u043E\u0442\u0438\u0432
+      \u0437\u0435\u043B\u0435\u043D\u0441\u043A\u043E\u0433\u043E/\u0417\u0435\u043B\u0435\u043D\u0441\u043A\u0438\u0439-\u041F\u0440\u043E\u0432\u0438\u0434\u0435\u0446.jpg"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8442e7c28c58b7a448e87fad3bb07865
+    m_Address: "Assets/Sprite/\u043F\u0443\u0442\u0438\u043D \u043F\u0440\u043E\u0442\u0438\u0432
+      \u0437\u0435\u043B\u0435\u043D\u0441\u043A\u043E\u0433\u043E/\u0417\u0435\u043B\u0435\u043D\u0441\u043A\u0438\u0439-\u0420\u0430\u0437\u0432\u0435\u0434\u0447\u0438\u043A.jpg"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 847f0de08374885408f77e293e8535bf
+    m_Address: "Assets/Sprite/\u043F\u0443\u0442\u0438\u043D \u043F\u0440\u043E\u0442\u0438\u0432
+      \u0437\u0435\u043B\u0435\u043D\u0441\u043A\u043E\u0433\u043E/\u0410\u0432\u0430
+      \u0432 \u0438\u0433\u0440\u0443.jpg"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8c2cd4896b9cfe6469efe3c9f6daa140
+    m_Address: "Assets/Sprite/\u043F\u0443\u0442\u0438\u043D \u043F\u0440\u043E\u0442\u0438\u0432
+      \u0437\u0435\u043B\u0435\u043D\u0441\u043A\u043E\u0433\u043E/\u0417\u0435\u043B\u0435\u043D\u0441\u043A\u0438\u0439-\u0427\u0435\u043C\u043F\u0438\u043E\u043D.jpg"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8d6e330a562e8454ab16a534eaa4b33f
+    m_Address: "Assets/Sprite/\u043F\u0443\u0442\u0438\u043D \u043F\u0440\u043E\u0442\u0438\u0432
+      \u0437\u0435\u043B\u0435\u043D\u0441\u043A\u043E\u0433\u043E/\u043F\u0443\u0442\u0438\u043D.jpg"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9041c9d6e7298e84fabd47ddd6899ec4
+    m_Address: "Assets/Sprite/\u043F\u0443\u0442\u0438\u043D \u043F\u0440\u043E\u0442\u0438\u0432
+      \u0437\u0435\u043B\u0435\u043D\u0441\u043A\u043E\u0433\u043E/\u0417\u0435\u043B\u0435\u043D\u0441\u043A\u0438\u0439-\u0420\u044F\u0434\u043E\u0432\u043E\u0439.jpg"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a27eb032c08462243bda5ee46b1afef1
+    m_Address: "Assets/Sprite/\u043F\u0443\u0442\u0438\u043D \u043F\u0440\u043E\u0442\u0438\u0432
+      \u0437\u0435\u043B\u0435\u043D\u0441\u043A\u043E\u0433\u043E/\u0417\u0435\u043B\u0435\u043D\u0441\u043A\u0438\u0439-\u0418\u0441\u0441\u043B\u0435\u0434\u043E\u0432\u0430\u0442\u0435\u043B\u044C.jpg"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a3ad6e297467a1c4d9726c7507658071
+    m_Address: "Assets/Sprite/\u043F\u0443\u0442\u0438\u043D \u043F\u0440\u043E\u0442\u0438\u0432
+      \u0437\u0435\u043B\u0435\u043D\u0441\u043A\u043E\u0433\u043E/\u0417\u0435\u043B\u0435\u043D\u0441\u043A\u0438\u0439-\u0410\u0440\u0445\u043E\u043D\u0442.jpg"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a3e87463f4a533f4ab1302b3ef7290f8
+    m_Address: "Assets/Sprite/\u043F\u0443\u0442\u0438\u043D \u043F\u0440\u043E\u0442\u0438\u0432
+      \u0437\u0435\u043B\u0435\u043D\u0441\u043A\u043E\u0433\u043E/\u0417\u0435\u043B\u0435\u043D\u0441\u043A\u0438\u0439-\u0412\u0435\u0442\u0435\u0440\u0430\u043D.jpg"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a606ec783e123664da8ceb8651bda0a7
+    m_Address: "Assets/Sprite/\u043F\u0443\u0442\u0438\u043D \u043F\u0440\u043E\u0442\u0438\u0432
+      \u0437\u0435\u043B\u0435\u043D\u0441\u043A\u043E\u0433\u043E/\u0417\u0435\u043B\u0435\u043D\u0441\u043A\u0438\u0439-\u042D\u043F\u0438\u0447\u0435\u0441\u043A\u0438\u0439.jpg"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: acd3aac4025cb9f47b2f4dd58bc21aa2
+    m_Address: "Assets/Sprite/\u043F\u0443\u0442\u0438\u043D \u043F\u0440\u043E\u0442\u0438\u0432
+      \u0437\u0435\u043B\u0435\u043D\u0441\u043A\u043E\u0433\u043E/\u0417\u0435\u043B\u0435\u043D\u0441\u043A\u0438\u0439-\u0413\u0435\u0440\u043E\u0439.jpg"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b7ec67171d531284d98045d7a6e7d772
+    m_Address: "Assets/Sprite/\u043F\u0443\u0442\u0438\u043D \u043F\u0440\u043E\u0442\u0438\u0432
+      \u0437\u0435\u043B\u0435\u043D\u0441\u043A\u043E\u0433\u043E/\u0417\u0435\u043B\u0435\u043D\u0441\u043A\u0438\u0439-\u042D\u043A\u0441\u043F\u0435\u0440\u0442.jpg"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: be6e373d93d10af4f9c0ee1d4afbf54e
+    m_Address: "Assets/Sprite/\u043F\u0443\u0442\u0438\u043D \u043F\u0440\u043E\u0442\u0438\u0432
+      \u0437\u0435\u043B\u0435\u043D\u0441\u043A\u043E\u0433\u043E/\u0417\u0435\u043B\u0435\u043D\u0441\u043A\u0438\u0439-\u0417\u0430\u0449\u0438\u0442\u043D\u0438\u043A.jpg"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cdc536db943b835488b423579656f986
+    m_Address: "Assets/Sprite/\u043F\u0443\u0442\u0438\u043D \u043F\u0440\u043E\u0442\u0438\u0432
+      \u0437\u0435\u043B\u0435\u043D\u0441\u043A\u043E\u0433\u043E/\u0417\u0435\u043B\u0435\u043D\u0441\u043A\u0438\u0439-\u0421\u0442\u0440\u0430\u0436.jpg"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: de0bb2ce26d711f4691f34805380de34
+    m_Address: "Assets/Sprite/\u043F\u0443\u0442\u0438\u043D \u043F\u0440\u043E\u0442\u0438\u0432
+      \u0437\u0435\u043B\u0435\u043D\u0441\u043A\u043E\u0433\u043E/\u043F\u0443\u0442\u0438\u043D
+      \u0431\u0430\u0437\u0430.jpg"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dfdabdf5ca6cd284c9e78f970c0b4a16
+    m_Address: "Assets/Sprite/\u043F\u0443\u0442\u0438\u043D \u043F\u0440\u043E\u0442\u0438\u0432
+      \u0437\u0435\u043B\u0435\u043D\u0441\u043A\u043E\u0433\u043E/\u0417\u0435\u043B\u0435\u043D\u0441\u043A\u0438\u0439-\u0412\u0435\u0440\u0445\u043E\u0432\u043D\u044B\u0439.jpg"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f5d65308e518c174ebe0f84edca46a0a
+    m_Address: "Assets/Sprite/\u043F\u0443\u0442\u0438\u043D \u043F\u0440\u043E\u0442\u0438\u0432
+      \u0437\u0435\u043B\u0435\u043D\u0441\u043A\u043E\u0433\u043E/\u0417\u0435\u043B\u0435\u043D\u0441\u043A\u0438\u0439-\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\u043D\u0442.jpg"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 2b00622005c5113419e48fb1dcbb525e, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 071905f7a15e1e1419d4fd5c45d65a02, type: 2}
+    - {fileID: 11400000, guid: d780c73e8a46e674b886c959f0242095, type: 2}

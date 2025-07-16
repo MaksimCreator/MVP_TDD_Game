@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9cbfa0e0ce1e3094cb596c4f64636c64, type: 3}
+  m_Name: Pasive Money
+  m_EditorClassIdentifier: 
+  _queueUpgradeInfo:
+  - {fileID: 11400000, guid: a24908ce104e7d744924c1938ab9a710, type: 2}
+  - {fileID: 11400000, guid: fdf2b317ea810cb4bae4b016145b1282, type: 2}
+  - {fileID: 11400000, guid: f55cc5d12630ab744ba84443bb79abeb, type: 2}
+  - {fileID: 11400000, guid: 7e25674b027f28f41a2ad80c66e684a0, type: 2}
+  - {fileID: 11400000, guid: a410375539bc88a4c8cc42ef83fdb857, type: 2}
+  - {fileID: 11400000, guid: 492a74eb23da9794ba394359107df336, type: 2}
+  - {fileID: 11400000, guid: 4b7af10ca76ed6b468d5a4b132537a94, type: 2}
+  - {fileID: 11400000, guid: 87489d28f0c121c4bb60fc02b6f7c8b7, type: 2}
+  - {fileID: 11400000, guid: b552bb1bc84a6db4e855ad78d88715aa, type: 2}
+  - {fileID: 11400000, guid: 6277ad67bbba99148a412520c0374d8b, type: 2}
+  - {fileID: 11400000, guid: 7e9c8b22814550049999e4d479a4f9f9, type: 2}
+  - {fileID: 11400000, guid: 1f2375d7b17151a40957b4d94385d4f1, type: 2}
+  - {fileID: 11400000, guid: 69690dca394d824469686a0d30a744e0, type: 2}
+  - {fileID: 11400000, guid: 70bfc8f069e738b41a8c6b054ac48110, type: 2}
+  - {fileID: 11400000, guid: 1d211ac14dadbf3408373b25c03edd85, type: 2}
+  - {fileID: 11400000, guid: 62f752ff993d3074dbb367bd1606f27a, type: 2}
+  - {fileID: 11400000, guid: f40e73c0261389f41b533a21bcba29f4, type: 2}
+  - {fileID: 11400000, guid: 73f441032203db94c90dd2cc7af3543a, type: 2}
+  - {fileID: 11400000, guid: 63a6e328a04d07e488d75c4d0b36e30b, type: 2}
+  - {fileID: 11400000, guid: 8cac1c59726ddc242b563498f233ad9d, type: 2}
